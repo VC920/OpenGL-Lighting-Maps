@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/vc/Documents/opengl/lighting-maps/build",
+  "command": "/usr/bin/g++  -I/home/vc/Documents/opengl/lighting-maps/include -g -o CMakeFiles/lighting-maps.dir/src/main.cpp.o -c /home/vc/Documents/opengl/lighting-maps/src/main.cpp",
+  "file": "/home/vc/Documents/opengl/lighting-maps/src/main.cpp",
+  "output": "CMakeFiles/lighting-maps.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/vc/Documents/opengl/lighting-maps/build",
+  "command": "/usr/bin/gcc  -I/home/vc/Documents/opengl/lighting-maps/include -g -o CMakeFiles/lighting-maps.dir/src/glad.c.o -c /home/vc/Documents/opengl/lighting-maps/src/glad.c",
+  "file": "/home/vc/Documents/opengl/lighting-maps/src/glad.c",
+  "output": "CMakeFiles/lighting-maps.dir/src/glad.c.o"
+}
+]

@@ -1,0 +1,3 @@
+/home/vc/Documents/opengl/lighting-maps/build/CMakeFiles/lighting-maps.dir
+/home/vc/Documents/opengl/lighting-maps/build/CMakeFiles/edit_cache.dir
+/home/vc/Documents/opengl/lighting-maps/build/CMakeFiles/rebuild_cache.dir

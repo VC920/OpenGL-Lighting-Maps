@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/lighting-maps.dir/link.d "CMakeFiles/lighting-maps.dir/src/main.cpp.o" "CMakeFiles/lighting-maps.dir/src/glad.c.o" -o lighting-maps  -lSDL2 -lGL
